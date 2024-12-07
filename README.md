@@ -2,14 +2,14 @@
 
 # a smol course
 
-This is a practical course on aligning language models for your specific use case. It's a handy way to get started with aligning language models, because everything runs on most local machines. There are minimal GPU requirements and no paid services. The course is based on the [SmolLM2](https://github.com/huggingface/smollm/tree/main) series of models, but you can transfer the skills you learn here to larger models or other small language models.
+Se trata de un curso práctico sobre la alineación de modelos lingüísticos para su caso de uso específico. Es una forma práctica de iniciarse en la alineación de modelos lingüísticos, porque todo se ejecuta en la mayoría de las máquinas locales. Los requisitos de GPU son mínimos y no hay servicios de pago. El curso se basa en la serie de modelos  [SmolLM2](https://github.com/huggingface/smollm/tree/main) spero puede transferir las habilidades que aprenda aquí a modelos más grandes o a otros modelos lingüísticos pequeños.
 
 <a href="http://hf.co/join/discord">
 <img src="https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white"/>
 </a>
 
 <div style="background: linear-gradient(to right, #e0f7fa, #e1bee7, orange); padding: 20px; border-radius: 5px; margin-bottom: 20px; color: purple;">
-    <h2>Participation is open, free, and now!</h2>
+    <h2>La participación es abierta, gratuita y ¡ya!</h2>
     <p>This course is open and peer reviewed. To get involved with the course <strong>open a pull request</strong> and submit your work for review. Here are the steps:</p>
     <ol>
         <li>Fork the repo <a href="https://github.com/huggingface/smol-course/fork">here</a></li>
