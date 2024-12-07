@@ -2,7 +2,7 @@
 
 # a smol course
 
-Se trata de un curso práctico sobre la alineación de modelos lingüísticos para su caso de uso específico. Es una forma práctica de iniciarse en la alineación de modelos lingüísticos, porque todo se ejecuta en la mayoría de las máquinas locales. Los requisitos de GPU son mínimos y no hay servicios de pago. El curso se basa en la serie de modelos  [SmolLM2](https://github.com/huggingface/smollm/tree/main) spero puede transferir las habilidades que aprenda aquí a modelos más grandes o a otros modelos lingüísticos pequeños.
+Se trata de un curso práctico sobre la alineación de modelos lingüísticos para su caso de uso específico. Es una forma práctica de iniciarse en la alineación de modelos lingüísticos, porque todo se ejecuta en la mayoría de las máquinas locales. Los requisitos de GPU son mínimos y no hay servicios de pago. El curso se basa en la serie de modelos  [SmolLM2](https://github.com/huggingface/smollm/tree/main) pero puede transferir las habilidades que aprenda aquí a modelos más grandes o a otros modelos lingüísticos pequeños.
 
 <a href="http://hf.co/join/discord">
 <img src="https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white"/>
